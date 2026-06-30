@@ -1,0 +1,3 @@
+Copyright © 2026 elgeteva. All rights reserved.
+This software is proprietary. Copying, modification, redistribution, reverse engineering, resale, or publication of modified versions without written permission is prohibited.
+The application may be downloaded and used by end users for personal writing projects according to the terms provided by the developer.
